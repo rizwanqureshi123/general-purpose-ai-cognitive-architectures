@@ -1,11 +1,4 @@
-# Toward General-Purpose AI: Beyond Next-Token Prediction to Cognitive Architectures
-
-![Paper](https://img.shields.io/badge/Paper-ACM%20CSUR-blue)
-![Status](https://img.shields.io/badge/Status-Under%20Review-orange)
-![Topic](https://img.shields.io/badge/Topic-General--Purpose%20AI-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-Official repository for the survey paper:
+Official repository for the Position survey paper:
 # Toward General-Purpose AI: Beyond Next-Token Prediction to Cognitive Architectures
 
 ![Paper](https://img.shields.io/badge/Paper-ACM%20CSUR-blue)
